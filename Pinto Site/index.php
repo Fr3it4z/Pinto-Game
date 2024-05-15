@@ -47,10 +47,9 @@
         </footer>
 </body>
 
-    <div class="gallery">
-       <img src="preto.jpg"  width= 650px;>
-    </div>
     <div class="fixe">
-        <img src="preto.jpg"  width= 100%;>
+        <img class="preto" src="preto2.jpg"  width= 100%; style="
+    max-height: 52rem;
+">
     </div>
 </html>

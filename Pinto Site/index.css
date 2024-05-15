@@ -125,16 +125,4 @@ body{
     top: 11.5%;
     left: 50%;
 }
-.fixe{
-    background-position: 100%;
-    opacity: 0.5;
-    max-width: 100%; 
-    position: absolute;
-    z-index: -1;
-    top: 8%;
-    left: 0.6%;
-    right: 0.6%;
-    bottom: 20;
-    bottom: 100%;
-    border: 3px solid rgba(55,4,10,255);
-}
+
