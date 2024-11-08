@@ -118,7 +118,7 @@ body{
     margin: 0 auto;
 
 }
-.gallery{
+.fixe{
     position: absolute;
     z-index: 2;
     opacity: 0;
